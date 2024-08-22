@@ -7,3 +7,12 @@ Aug 22 08:05:12 :: pEIXItem = [0, locale/en/jobdesc_sura.txt, 0, -405885948, 392
 Aug 22 08:05:12 :: ====================== NEW PACK CLASS ======================
 Aug 22 08:05:12 :: ISTANCE AT 0x01B60598
 Aug 22 08:05:12 :: ABSOLUTE PATH: D:\GITHUB_test\Metin2Current_EN\pack\locale_en.epk
+Aug 22 08:15:16 :: ====================== NEW INDEX CLASS ======================
+Aug 22 08:15:16 :: The EterIndex has been successfully decrypted (4176 bytes).
+Aug 22 08:15:16 :: EterIndex decompressed successfully [17292 bytes, 90 file(s)]
+Aug 22 08:15:16 :: ISTANCE AT 0x022F0508
+Aug 22 08:15:16 :: ABSOLUTE PATH: D:\GITHUB_test\Metin2Current_EN\pack\root.eix
+Aug 22 08:15:16 :: pEIXItem = [0, 936mob_proto, 9, -1911037332, 15024, 15024, 12949344, 0, 0]
+Aug 22 08:15:16 :: ====================== NEW PACK CLASS ======================
+Aug 22 08:15:16 :: ISTANCE AT 0x022F2198
+Aug 22 08:15:16 :: ABSOLUTE PATH: D:\GITHUB_test\Metin2Current_EN\pack\root.epk
