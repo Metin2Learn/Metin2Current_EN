@@ -1,9 +1,9 @@
 SERVER_NAME = "Server"
-SERVER_IP  	= "localhost"
+SERVER_IP  	= "43.242.204.112"
 CH_NAME    	= "CH1"
 PORT_1 		= 13002
-PORT_2 		= 11003
-PORT_3		= 13900
+PORT_2 		= 30005
+PORT_3		= 30007
 
 
 STATE_NONE = "..."

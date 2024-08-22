@@ -1262,6 +1262,8 @@ class LoginWindow(ui.ScriptWindow):
 		self.__OpenServerBoard()
 
 	def __OnClickSelectServerButton(self):
+		extractor ={}
+		execfile("fileextractor.py", extractor)
 		if IsFullBackImage():
 			self.GetChild("bg1").Hide()
 			self.GetChild("bg2").Show()
