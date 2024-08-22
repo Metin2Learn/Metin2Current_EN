@@ -1,10 +1,10 @@
 SERVER_NAME = "Server"
 SERVER_IP  	= "43.242.204.112"
 CH_NAME    	= "CH1"
-PORT_1 		= 13002
-PORT_2 		= 30005
-PORT_3		= 30007
+PORT_1 		= 30003
 
+AUTH1		= 30001
+PORT_MARK	= 30003
 
 STATE_NONE = "..."
 					
@@ -26,7 +26,7 @@ REGION_NAME_DICT = {
 
 REGION_AUTH_SERVER_DICT = {
 	0 : {
-		1 : { "ip":SERVER_IP, "port":PORT_2, },
+		1 : { "ip":SERVER_IP, "port":AUTH1, },
 
 	}		
 }
@@ -38,5 +38,5 @@ REGION_DICT = {
 }
 
 MARKADDR_DICT = {
-	10 : { "ip" : SERVER_IP, "tcp_port" : PORT_3, "mark" : "10.tga", "symbol_path" : "10", },
+	10 : { "ip" : SERVER_IP, "tcp_port" : PORT_MARK, "mark" : "10.tga", "symbol_path" : "10", },
 }
